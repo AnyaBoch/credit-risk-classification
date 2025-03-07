@@ -33,10 +33,17 @@ Stages of the Machine Learning Process in This Analysis
 
 6. Visualization 
 - Plotted the **confusion matrix** to show model performance.
-![alt text](../output/confusion_matrix.png)
+
+
+![alt text](/output/confusion_matrix.png)
+
+
 
 - Visualized the **classification report** using a heatmap for better interpretation.
-![alt text](../output/risk_classification_report.png)
+
+
+![alt text](/output/risk_classification_report.png)
+
 
 
 ### A report:
@@ -64,11 +71,11 @@ Stages of the Machine Learning Process in This Analysis
 ### Summary:
 
 **What else our Model tells Us**
-	- The dataset is highly imbalanced: 97% of the loans are classified as low risk (Class "0").
+- The dataset is highly imbalanced: 97% of the loans are classified as low risk (Class "0").
 
-	- 3% of the loans are classified as high risk (Class "1").
+- 3% of the loans are classified as high risk (Class "1").
 
-	- The model is heavily biased toward predicting low-risk loans, which aligns with the real-world data where most loans are actually low risk(light google research)
+- The model is heavily biased toward predicting low-risk loans, which aligns with the real-world data where most loans are actually low risk(light google research)
 
 **Is This a Problem?**
 
